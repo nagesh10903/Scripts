@@ -1,4 +1,3 @@
-# Scripts
 Python and Shell Scripts for Raspberry pi.
 ==========================================
 
